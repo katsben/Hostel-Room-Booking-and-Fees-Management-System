@@ -44,10 +44,10 @@ hostel_data.json      # created automatically on first "Save and exit"
 
 | Member | Section |
 |---|---|
-| Member 1 - [Name] | Data setup & file persistence (Sections A, E) |
-| Member 2 - [Name] | Registration & room allocation (Section B) |
-| Member 3 - [Name] | Fee payment recording (Section C) |
-| Member 4 - [Name] | Search & reporting (Section D) |
+| Member 1 - [KATEEA BERNARD] | Data setup & file persistence (Sections A, E) |
+| Member 2 - [KYAGULANYI SHARIF] | Registration & room allocation (Section B) |
+| Member 3 - [LUSWATA EDWIN] | Fee payment recording (Section C) |
+| Member 4 - [MBABAZI BRIDGET] | Search & reporting (Section D) |
 | All members | Menu integration & testing (Section F) |
 
 See the group report for full design details, work division and
