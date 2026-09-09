@@ -1,0 +1,6 @@
+# Data generated at runtime
+hostel_data.json
+
+# Python
+__pycache__/
+*.pyc
